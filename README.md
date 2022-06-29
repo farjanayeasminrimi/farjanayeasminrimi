@@ -1,11 +1,10 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Farjana Yeasmin Rimi</h1>
 <h3 align="center">A passionate Front-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&label=Profile%20views&color=0e75b6&style=flat" alt="farjanayeasminrimi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farjanayeasminrimi" alt="farjanayeasminrimi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="" /></a> </p>
 
 - 📫 How to reach me **farjanayeasmin003@gmail.com**
 
@@ -22,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farjanayeasminrimi&show_icons=true&locale=en&layout=compact" alt="farjanayeasminrimi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farjanayeasminrimi&show_icons=true&locale=en" alt="farjanayeasminrimi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farjanayeasminrimi&" alt="farjanayeasminrimi" /></p>
