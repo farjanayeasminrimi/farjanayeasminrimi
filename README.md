@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farjana Yeasmin Rimi</h1>
 <h3 align="center">A passionate Front-End Developer</h3>
-
+<div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&label=Profile%20views&color=0e75b6&style=flat" alt="farjanayeasminrimi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="" /></a> </p>
@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="left" style="padding-top:10px; margin-top:10px;" src="https://github-readme-stats.vercel.app/api?username=farjanayeasminrimi&show_icons=true&locale=en" alt="farjanayeasminrimi" /></p> </br>
 
 <p><img align="left" style="margin-top:10px;"  src="https://github-readme-streak-stats.herokuapp.com/?user=farjanayeasminrimi&" alt="farjanayeasminrimi" /></p>
+</div>
