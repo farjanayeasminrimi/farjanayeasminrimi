@@ -7,9 +7,9 @@
 
 <div align="center" style="margin-top:15px;">
   
-- 🌱 I’m currently learning **React** </br>
+  👩‍💼 I’m currently learning **React** </br>
 
-- 💬 Ask me about **JavaScript** </br>
+  💬 Ask me about **JavaScript** </br>
 
   📫 How to reach me **farjanayeasmin003@gmail.com** </br>
 
