@@ -4,15 +4,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&label=Profile%20views&color=0e75b6&style=flat" alt="farjanayeasminrimi" /> </p>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="" /></a> </p>
-<p align="center">
+<div align="center">
 - 🌱 I’m currently learning **React**
-
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **farjanayeasmin003@gmail.com**
 
 - ⚡ Fun fact **I love to tell story**
-</p>
+</div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/farjanayeasminrimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farjanayeasminrimi" height="30" width="40" /></a>
