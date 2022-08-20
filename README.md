@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&label=Profile%20views&color=0e75b6&style=flat" alt="farjanayeasminrimi" /> </p>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="" /></a> </p>
-<div align="center">
+<div align="center" style="margin-top:6px;">
 - 🌱 I’m currently learning **React** </br>
 - 💬 Ask me about **JavaScript** </br>
 
