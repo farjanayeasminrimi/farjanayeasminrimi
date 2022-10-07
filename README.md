@@ -11,7 +11,7 @@
 
   💬 Ask me about **JavaScript** </br>
 
-  📫 How to reach me **farjanayeasmin003@gmail.com** </br>
+  📫 Reach me via **farjanayeasmin003@gmail.com** </br>
 
   ⚡ Fun fact **I love to tell story** </br>
 </div>
