@@ -6,14 +6,10 @@
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="" /></a> </p>
 
 <div align="center" style="margin-top:15px;">
-  
-  👩‍💼 I’m currently learning **React** </br>
 
-  💬 Ask me about **JavaScript** </br>
 
   📫 Reach me via **farjanayeasmin003@gmail.com** </br>
 
-  ⚡ Fun fact **I love to tell story** </br>
 </div>
 <h3 align="center">Connect with me:</h3>
 
