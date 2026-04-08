@@ -51,19 +51,23 @@
 <!-- ============================= -->
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/farjanayeasminrimi">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/farjanayeasminrimi" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/farjanayeasmin703">
+  
+  <!-- Facebook -->
+  <a href="https://fb.com/farjanayeasmin703" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/">
+  
+  <!-- Instagram -->
+  <a href="https://instagram.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/@farjanayeasminrimi">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" />
-  </a>
-  <a href="https://discord.gg/#4269">
+  
+  <!-- Discord -->
+  <a href="https://discord.gg/#4269" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
 </p>
