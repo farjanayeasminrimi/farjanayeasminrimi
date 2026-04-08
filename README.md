@@ -37,11 +37,12 @@
 <!-- ============================= -->
 <!-- About Me Section -->
 <!-- ============================= -->
-## 🚀 About Me
-- 🌱 I’m currently learning Advanced React & Next.js  
-- 💡 Love building modern UI & responsive websites  
-- ⚡ I enjoy turning ideas into real projects  
-- 📫 Reach me: farjanayeasmin003@gmail.com  
+## 💼 About Me
+Front-End Developer passionate about clean and responsive web apps
+Currently learning Advanced React & Next.js
+Enjoy turning ideas into real projects
+Continuously learning and growing in web development
+📫 Reach me: farjanayeasmin003@gmail.com
 
 ---
 
