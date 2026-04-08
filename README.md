@@ -107,33 +107,18 @@
 <!-- GitHub Stats Section -->
 <!-- ============================= -->
 ## 📊 GitHub Stats
-
 <p align="center">
-  <table>
-    <tr>
-      <!-- Left: GitHub Stats -->
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=farjanayeasminrimi&show_icons=true&theme=tokyonight" 
-          alt="GitHub Stats"
-        />
-      </td>
-
-      <!-- Right: Top Languages -->
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=farjanayeasminrimi&layout=compact&theme=tokyonight" 
-          alt="Top Languages"
-        />
-      </td>
-    </tr>
-  </table>
+  <!-- GitHub stats card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=farjanayeasminrimi&show_icons=true&theme=tokyonight" 
+    alt="GitHub Stats" 
+  />
 </p>
 
 <p align="center">
-  <!-- Streak stays below -->
+  <!-- GitHub streak stats card -->
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=farjanayeasminrimi&theme=tokyonight" 
-    alt="GitHub Streak Stats"
+    alt="GitHub Streak Stats" 
   />
 </p>
