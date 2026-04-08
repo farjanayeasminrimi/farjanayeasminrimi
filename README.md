@@ -16,9 +16,7 @@
 
 <!-- Fun Animation -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Farjana%20Yeasmin%20Rimi&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
-</p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="" /></a> </p>
 
 ---
 
