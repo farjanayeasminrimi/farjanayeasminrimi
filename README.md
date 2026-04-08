@@ -1,12 +1,12 @@
-<!-- Gradient Banner with Name + Subtitle INSIDE -->
+<!-- Cyan → Blue Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:EC4899&height=260&section=header&text=Farjana%20Yeasmin%20Rimi&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=F5F3FF&desc=Public%20Speaker%20%20%20%E2%80%A2%20%20%20Teacher%20%20%20%E2%80%A2%20%20%20Front-End%20Developer&descAlignY=58&descSize=18&descColor=E9D5FF" />
-</p>
-<!-- Light Gradient Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=C084FC&size=24&center=true&vCenter=true&width=650&lines=Creative+Frontend+Developer;Building+Modern+UI+with+React;Passionate+about+Design+%26+Code" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:3B82F6&height=275&section=header&text=Farjana%20Yeasmin%20Rimi&fontSize=44&fontAlignY=35&animation=fadeIn&fontColor=ECFEFF&desc=Public%20Speaker%20%20%20%E2%80%A2%20%20%20Teacher%20%20%20%E2%80%A2%20%20%20Front-End%20Developer&descAlignY=60&descSize=18&descColor=CFFAFE" />
 </p>
 
+<!-- Bold Styled Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=28&center=true&vCenter=true&width=700&lines=Creative+Frontend+Developer;Building+Modern+UI+with+React;Passionate+about+Design+%26+Code&font=Fira%20Code&pause=1000" />
+</p>
 ---
 
 <h3 align="center">💻 A passionate Front-End Developer</h3>
