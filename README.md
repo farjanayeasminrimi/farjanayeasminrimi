@@ -9,7 +9,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&label=Profile%20views&color=F8FAFC&style=flat&background=0F172A,1D4ED8,06B6D4&radius=8" 
-       alt="Profile views" />
+       alt="Profile views" 
+       style="padding: 6px 12px;" />
 </p>
 
 <p align="center">
