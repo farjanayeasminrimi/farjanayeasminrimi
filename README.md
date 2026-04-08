@@ -108,17 +108,16 @@
 <!-- ============================= -->
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- GitHub stats card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=farjanayeasminrimi&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=farjanayeasminrimi&show_icons=true&theme=tokyonight&hide_border=false" 
+    alt="Farjana's GitHub Stats" 
   />
 </p>
 
 <p align="center">
-  <!-- GitHub streak stats card -->
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=farjanayeasminrimi&theme=tokyonight" 
-    alt="GitHub Streak Stats"
+    alt="GitHub Streak Stats" 
   />
 </p>
+
