@@ -1,17 +1,7 @@
 <!-- Gradient Banner with Name + Subtitle INSIDE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:EC4899&height=230&section=header
-  &text=Farjana%20Yeasmin%20Rimi
-  &fontSize=38
-  &fontAlignY=35
-  &desc=Public%20Speaker%20•%20Teacher%20•%20Front-End%20Developer
-  &descAlignY=55
-  &descSize=16
-  &descColor=E9D5FF
-  &fontColor=F5F3FF
-  &animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:EC4899&height=200&section=header&text=Farjana%20Yeasmin%20Rimi&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=F5F3FF&desc=Public%20Speaker%20•%20Teacher%20•%20Front-End%20Developer&descAlignY=55&descSize=16&descColor=E9D5FF" />
 </p>
-
 <!-- Light Gradient Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=C084FC&size=24&center=true&vCenter=true&width=650&lines=Creative+Frontend+Developer;Building+Modern+UI+with+React;Passionate+about+Design+%26+Code" />
