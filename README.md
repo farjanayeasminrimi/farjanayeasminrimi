@@ -50,34 +50,35 @@
 <!-- Social Media / Connect Section -->
 <!-- ============================= -->
 ## 🌐 Connect with Me
-<p align="left">
+Standard GitHub Markdown doesn't allow for custom CSS (like border-radius: 5px) directly on images. However, we can achieve this look by switching from the "For-the-badge" style (which is rectangular/pill-shaped) to the "Flat-Square" style, which naturally has those slightly rounded, 5px-style corners.
+
+I have also updated the alignment to center and added non-breaking spaces (&nbsp;) to create a clean gap between each button.
+
+HTML
+## 🌐 Connect with Me
+
+<p align="center">
 
   <a href="mailto:farjanayeasmin003@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-FF5722?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-FF5722?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp; <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://github.com/farjanayeasminrimi" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  &nbsp; <a href="https://github.com/farjanayeasminrimi" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-008080?style=for-the-badge&logo=googledomains&logoColor=white" alt="Portfolio" />
+  &nbsp; <a href="YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-008080?style=flat-square&logo=googledomains&logoColor=white" alt="Portfolio" />
   </a>
-
-  <a href="YOUR_FACEBOOK_URL" target="_blank">
-    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  &nbsp; <a href="YOUR_FACEBOOK_URL" target="_blank">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-
-  <a href="YOUR_INSTAGRAM_URL" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  &nbsp; <a href="YOUR_INSTAGRAM_URL" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-
-  <a href="YOUR_DISCORD_URL" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  &nbsp; <a href="YOUR_DISCORD_URL" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
 
 </p>
