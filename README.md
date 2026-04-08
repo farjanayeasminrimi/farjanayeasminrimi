@@ -37,19 +37,19 @@
 <!-- ============================= -->
 <!-- About Me Section -->
 <!-- ============================= -->
-## 💼 About Me
+## 👩‍💻 Professional Summary
 - Front-End Developer passionate about **clean and responsive web apps**  
 - Currently learning **Advanced React & Next.js**  
 - Enjoy turning ideas into **real projects**  
 - Continuously **learning and growing** in web development  
 - 📫 **Reach me:** [farjanayeasmin003@gmail.com](mailto:farjanayeasmin003@gmail.com)
 
----
+
 
 <!-- ============================= -->
 <!-- Social Media / Connect Section -->
 <!-- ============================= -->
-## 🌐 Connect with Me
+## 🔗 Connect & Collaborate
 
 <p align="center">
 
@@ -93,7 +93,7 @@
 <!-- ============================= -->
 <!-- Languages & Tools Section -->
 <!-- ============================= -->
-## 🛠️ Languages & Tools
+## ⚙️ Tech Stack & Tools
 <p align="center">
   <img 
     src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,figma" 
@@ -106,7 +106,7 @@
 <!-- ============================= -->
 <!-- GitHub Stats Section -->
 <!-- ============================= -->
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=farjanayeasminrimi&show_icons=true&theme=tokyonight&cache_seconds=1800" 
