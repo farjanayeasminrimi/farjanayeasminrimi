@@ -7,6 +7,10 @@
 </p>
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&label=Profile%20views&color=9333EA&style=flat" />
+</p>
+
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="" /></a> </p>
 
 ---
