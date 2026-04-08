@@ -44,7 +44,7 @@
 - Continuously **learning and growing** in web development  
 - 📫 **Reach me:** [farjanayeasmin003@gmail.com](mailto:farjanayeasmin003@gmail.com)
 
-
+--
 
 <!-- ============================= -->
 <!-- Social Media / Connect Section -->
