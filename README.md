@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=1000&color=93C5FD&center=true&vCenter=true&width=720&lines=Creative+Front-End+Developer;Building+Modern+and+Responsive+Web+Experiences;Learning+and+Growing+Every+Day" 
-       alt="Animated typing text" style="width:70%;" />
+       alt="Animated typing text" " />
 </p>
 
 <p align="center">
