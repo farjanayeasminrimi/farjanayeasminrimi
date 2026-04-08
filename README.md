@@ -4,27 +4,28 @@
 </p>
 
 <!-- Split Layout -->
-<table align="center" width="100%">
+<table align="center" width="100%" style="border-collapse: collapse;">
 <tr>
-<td width="48%" valign="middle">
+<td width="48%" valign="middle" style="border:none;">
 
 <!-- Left Column -->
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2800&pause=900&color=38BDF8&center=false&vCenter=true&width=520&lines=Front-End+Developer;Building+Modern+and+Responsive+Web+Experiences;Always+Learning+and+Improving" alt="Animated typing text" />
+<p align="left" style="margin:0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2800&pause=900&color=38BDF8&center=false&vCenter=true&width=520&lines=Front-End+Developer;Building+Modern+and+Responsive+Web+Experiences;Always+Learning+and+Improving" alt="Animated typing text" style="border:none;" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&label=Profile%20views&color=ffffff&style=for-the-badge&background=1D4ED8" alt="Profile views" />
+<p align="left" style="margin-top:10px;">
+  <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&label=Profile%20views&color=ffffff&style=for-the-badge&background=1D4ED8" alt="Profile views" style="border:none;"/>
 </p>
 
 </td>
-<td width="4%"></td>
-<td width="48%" valign="middle">
+<td width="4%" style="border:none;"></td>
+<td width="48%" valign="middle" style="border:none;">
 
 <!-- Right Column -->
-<p align="right">
+<p align="right" style="margin:0;">
   <a href="https://twitter.com/" target="_blank">
-    <img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="Fun Animation" width="260" style="border-radius:12px;"/>
+    <img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="Fun Animation" 
+         style="width:60%; height:300px; object-fit:cover; border-radius:12px; border:none;"/>
   </a>
 </p>
 
