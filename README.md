@@ -50,21 +50,19 @@
 <!-- Social Media / Connect Section -->
 <!-- ============================= -->
 ## 🌐 Connect with Me
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-
-  <!-- Instagram -->
-  <a href="YOUR_INSTAGRAM_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-
-  <!-- Discord -->
-  <a href="YOUR_DISCORD_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-  </a>
+<p align="left">
+<a href="https://github.com/farjanayeasminrimi" target="_blank">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="YOUR_PORTFOLIO_URL" target="_blank">
+<img src="https://img.shields.io/badge/PORTFOLIO-008080?style=for-the-badge&logo=googledomains&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:farjanayeasmin003@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-FF5722?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </p>
 
 ---
