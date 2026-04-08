@@ -38,11 +38,11 @@
 <!-- About Me Section -->
 <!-- ============================= -->
 ## 💼 About Me
-Front-End Developer passionate about clean and responsive web apps
-Currently learning Advanced React & Next.js
-Enjoy turning ideas into real projects
-Continuously learning and growing in web development
-📫 Reach me: farjanayeasmin003@gmail.com
+- Front-End Developer passionate about **clean and responsive web apps**  
+- Currently learning **Advanced React & Next.js**  
+- Enjoy turning ideas into **real projects**  
+- Continuously **learning and growing** in web development  
+- 📫 **Reach me:** [farjanayeasmin003@gmail.com](mailto:farjanayeasmin003@gmail.com)
 
 ---
 
