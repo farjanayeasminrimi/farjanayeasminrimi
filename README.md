@@ -1,6 +1,6 @@
 <!-- Gradient Banner with Name + Subtitle INSIDE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:EC4899&height=200&section=header&text=Farjana%20Yeasmin%20Rimi&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=F5F3FF&desc=Public%20Speaker%20•%20Teacher%20•%20Front-End%20Developer&descAlignY=55&descSize=16&descColor=E9D5FF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:EC4899&height=260&section=header&text=Farjana%20Yeasmin%20Rimi&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=F5F3FF&desc=Public%20Speaker%20%20%20%E2%80%A2%20%20%20Teacher%20%20%20%E2%80%A2%20%20%20Front-End%20Developer&descAlignY=58&descSize=18&descColor=E9D5FF" />
 </p>
 <!-- Light Gradient Typing Animation -->
 <p align="center">
