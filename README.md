@@ -36,8 +36,9 @@
 
 ## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,daisyui,figma,git,github,vscode,photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,figma" alt="Tech Stack" />
 </p>
+
 
 ---
 
