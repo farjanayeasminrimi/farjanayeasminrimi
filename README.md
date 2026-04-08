@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=A5B4FC&size=30&center=true&vCenter=true&width=700&lines=Creative+Frontend+Developer;Building+Modern+UI+with+React;Passionate+about+Design+%26+Code&font=Poppins&pause=1200&weight=700" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=1000&color=1D4ED8&center=true&vCenter=true&width=720&lines=Creative+Front-End+Developer;Building+Modern+and+Responsive+Web+Experiences;Learning+and+Growing+Every+Day" alt="Animated typing text" />
 </p>
 
 <p align="center">
@@ -22,13 +22,13 @@
   </a>
 </p>
 
-
+---
 
 ## Professional Summary
 
 I am a passionate front-end developer focused on building clean, responsive, and user-friendly web interfaces. I enjoy turning ideas into practical digital products and continuously improving my skills in modern web technologies.
 
-
+---
 
 ## Current Focus
 
@@ -36,7 +36,7 @@ I am a passionate front-end developer focused on building clean, responsive, and
 - Building modern UI/UX-focused projects
 - Strengthening full-stack skills with the MERN ecosystem
 
-
+---
 
 ## Tech Stack
 
@@ -44,7 +44,7 @@ I am a passionate front-end developer focused on building clean, responsive, and
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,figma" alt="Tech Stack" />
 </p>
 
-
+---
 
 ## Connect With Me
 
@@ -55,7 +55,7 @@ I am a passionate front-end developer focused on building clean, responsive, and
   <a href="https://www.youtube.com/@farjanayeasminrimi"><img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" /></a>
 </p>
 
-
+---
 
 ## GitHub Overview
 
