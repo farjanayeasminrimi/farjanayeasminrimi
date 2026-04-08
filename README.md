@@ -1,11 +1,11 @@
-<!-- Animated Banner -->
+<!-- Purple Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Farjana%20Yeasmin%20Rimi&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:DA70D6&height=200&section=header&text=Farjana%20Yeasmin%20Rimi&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-<!-- Typing Animation -->
+<!-- Purple Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F2FE&size=24&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Farjana+Yeasmin+Rimi;Front-End+Developer;React+%7C+Tailwind+%7C+JavaScript;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=DA70D6&size=24&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Farjana+Yeasmin+Rimi;Front-End+Developer;React+%7C+Tailwind+%7C+JavaScript;Building+Modern+UI+✨" />
 </p>
 
 ---
@@ -13,7 +13,12 @@
 <h3 align="center">💻 A passionate Front-End Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&label=Profile%20views&color=8A2BE2&style=flat" alt="profile views"/>
+</p>
+
+<!-- Fun Animation (Moved here) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" />
 </p>
 
 ---
@@ -34,6 +39,9 @@
 <a href="https://fb.com/farjanayeasmin703" target="_blank">
   <img src="https://skillicons.dev/icons?i=facebook" />
 </a>
+<a href="https://instagram.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 <a href="https://www.youtube.com/@farjanayeasminrimi" target="_blank">
   <img src="https://skillicons.dev/icons?i=youtube" />
 </a>
@@ -46,7 +54,7 @@
 
 ## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,git,photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,daisyui,figma,git,github,vscode,photoshop" />
 </p>
 
 ---
@@ -58,13 +66,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farjanayeasminrimi&theme=tokyonight" />
-</p>
-
----
-
-## ✨ Fun Animation
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
 </p>
 
 ---
