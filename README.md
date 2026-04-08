@@ -50,13 +50,6 @@
 <!-- Social Media / Connect Section -->
 <!-- ============================= -->
 ## 🌐 Connect with Me
-Standard GitHub Markdown doesn't allow for custom CSS (like border-radius: 5px) directly on images. However, we can achieve this look by switching from the "For-the-badge" style (which is rectangular/pill-shaped) to the "Flat-Square" style, which naturally has those slightly rounded, 5px-style corners.
-
-I have also updated the alignment to center and added non-breaking spaces (&nbsp;) to create a clean gap between each button.
-
-HTML
-## 🌐 Connect with Me
-
 <p align="center">
 
   <a href="mailto:farjanayeasmin003@gmail.com">
