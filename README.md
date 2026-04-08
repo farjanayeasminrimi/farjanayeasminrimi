@@ -108,9 +108,4 @@
 <!-- ============================= -->
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=farjanayeasminrimi&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats"
-  />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=farjanayeasminrimi&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" /> </p>
