@@ -4,16 +4,18 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=1000&color=93C5FD&center=true&vCenter=true&width=720&lines=Creative+Front-End+Developer;Building+Modern+and+Responsive+Web+Experiences;Learning+and+Growing+Every+Day" 
-       alt="Animated typing text" " />
+       alt="Animated typing text" />
 </p>
 
+<!-- Profile Views Button -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&label=Profile%20Views&color=0A66C2&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&label=Profile%20Views&color=0A66C2&style=flat-square" width="220" height="60" alt="Profile Views" />
 </p>
 
+<!-- GIF after the button -->
 <p align="center">
   <a href="https://twitter.com/" target="_blank">
-    <img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="" />
+    <img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" width="300" height="auto" alt="Animated GIF" />
   </a>
 </p>
 
@@ -23,7 +25,7 @@
 - 🌱 I’m currently learning Advanced React & Next.js  
 - 💡 Love building modern UI & responsive websites  
 - ⚡ I enjoy turning ideas into real projects  
-- 📫 Reach me: farjanayeasmin003@gmail.com  
+- 📫 Reach me: [farjanayeasmin003@gmail.com](mailto:farjanayeasmin003@gmail.com)  
 
 ---
 
