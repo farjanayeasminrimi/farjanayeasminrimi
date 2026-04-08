@@ -107,12 +107,6 @@
 <!-- GitHub Stats Section -->
 <!-- ============================= -->
 ## 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=farjanayeasminrimi&show_icons=true&theme=tokyonight&hide_border=false" 
-    alt="Farjana's GitHub Stats" 
-  />
-</p>
 
 <p align="center">
   <img 
