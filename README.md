@@ -1,17 +1,38 @@
+<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=260&section=header&text=Farjana%20Yeasmin%20Rimi&fontSize=46&fontAlignY=34&fontColor=F8FAFC&animation=twinkling&desc=Front-End%20Developer%20%7C%20MERN%20Stack%20Learner%20%7C%20Public%20Speaker&descAlignY=54&descSize=16" alt="Animated background banner" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=1000&color=1D4ED8&center=true&vCenter=true&width=720&lines=Creative+Front-End+Developer;Building+Modern+and+Responsive+Web+Experiences;Learning+and+Growing+Every+Day" alt="Animated typing text" />
+<!-- Split Layout -->
+<table align="center" width="100%">
+<tr>
+<td width="48%" valign="top">
+
+<!-- Left Column -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=false&vCenter=true&width=500&lines=Creative+Front-End+Developer;Building+Modern+and+Responsive+Web+Experiences;Learning+and+Growing+Every+Day" alt="Animated typing text" />
 </p>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&label=Profile%20views&color=9333EA&style=flat" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&label=Profile%20views&color=0F172A&style=flat" />
 </p>
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="Fun Animation" width="200"/></a>
+</p>
+
+</td>
+<td width="4%"></td>
+<td width="48%" valign="top">
+
+<!-- Right Column -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2800&pause=1000&color=CFFAFE&center=false&vCenter=true&width=500&lines=Creative+UI+Design;Building+Modern+React+Projects;Always+Learning+and+Improving" alt="Typing Animation Right" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -36,9 +57,8 @@
 
 ## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,figma,daisyui" alt="Tech Stack" />
 </p>
-
 
 ---
 
