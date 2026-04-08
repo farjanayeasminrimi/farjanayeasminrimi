@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=30&center=true&vCenter=true&width=750&lines=Creative+Frontend+Developer;Building+Modern+UI+with+React;Passionate+about+Design+%26+Code&font=Roboto+Mono&pause=1000" />
 </p>
 
-<h3 align="center">💻 A passionate Front-End Developer</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&label=Profile%20views&color=9333EA&style=flat" />
 </p>
