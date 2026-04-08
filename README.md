@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=240&section=header&text=Farjana%20Yeasmin%20Rimi&fontSize=52&fontAlignY=48&fontWeight=800&animation=fadeIn&fontColor=F1F5F9&desc=Frontend%20Developer%20•%20UI%20Designer%20•%20Public%20Speaker&descAlignY=68&descSize=20&descColor=E2E8F0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=220&section=header&text=Farjana%20Yeasmin%20Rimi&fontSize=52&fontAlignY=50&fontWeight=800&animation=fadeIn&fontColor=F8FAFC&desc=Front%20End%20Developer%20•%20MERN%20Developer%20•%20Public%20Speaker&descAlignY=70&descSize=18&descColor=E2E8F0" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=A5B4FC&size=30&center=true&vCenter=true&width=700&lines=Creative+Frontend+Developer;Building+Modern+UI+with+React;Passionate+About+Design+%26+UX&font=Poppins&pause=1200&weight=800" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=A5B4FC&size=30&center=true&vCenter=true&width=700&lines=Creative+Frontend+Developer;Building+Modern+UI+with+React;Passionate+about+Design+%26+Code&font=Poppins&pause=1200&weight=700" />
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&label=Profile%20Views&color=6366F1&style=flat-square" />
