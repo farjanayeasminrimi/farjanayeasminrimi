@@ -52,22 +52,17 @@
 ## 🌐 Connect with Me
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/farjanayeasminrimi" target="_blank">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  
-  <!-- Facebook -->
-  <a href="https://fb.com/farjanayeasmin703" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
-  </a>
-  
+
   <!-- Instagram -->
-  <a href="https://instagram.com/" target="_blank">
+  <a href="YOUR_INSTAGRAM_URL" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-  
+
   <!-- Discord -->
-  <a href="https://discord.gg/#4269" target="_blank">
+  <a href="YOUR_DISCORD_URL" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
 </p>
