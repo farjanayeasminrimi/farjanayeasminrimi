@@ -15,7 +15,10 @@
 </p>
 
 <!-- Fun Animation -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&label=Profile%20views&color=0e75b6&style=flat" alt="farjanayeasminrimi" /> </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Farjana%20Yeasmin%20Rimi&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</p>
 
 ---
 
