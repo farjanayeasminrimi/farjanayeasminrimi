@@ -1,23 +1,20 @@
-<!-- Custom Gradient Banner -->
+<!-- Gradient Banner with Name + Subtitle INSIDE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:EC4899&height=230&section=header&text=&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:EC4899&height=230&section=header
+  &text=Farjana%20Yeasmin%20Rimi
+  &fontSize=38
+  &fontAlignY=35
+  &desc=Public%20Speaker%20•%20Teacher%20•%20Front-End%20Developer
+  &descAlignY=55
+  &descSize=16
+  &descColor=E9D5FF
+  &fontColor=F5F3FF
+  &animation=fadeIn" />
 </p>
 
-<!-- Name + Subtitle Overlay -->
-<h1 align="center" style="margin-top:-160px; font-size:45px; font-weight:bold; color:#F3E8FF;">
-  Farjana <br/> Yeasmin Rimi
-</h1>
-
-<h3 align="center" style="color:#E9D5FF; margin-top:-10px;">
-  Public Speaker • Teacher • Front-End Developer
-</h3>
-
-<br/>
-
-<!-- Gradient Animated Typing (Dark + Stroke Effect) -->
+<!-- Light Gradient Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6D28D9&size=26&center=true&vCenter=true&width=650&lines=Creative+Frontend+Developer;Building+Modern+UI+with+React;Passionate+about+Design+%26+Code" 
-  style="text-shadow: 1px 1px 0px #000, -1px -1px 0px #000;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=C084FC&size=24&center=true&vCenter=true&width=650&lines=Creative+Frontend+Developer;Building+Modern+UI+with+React;Passionate+about+Design+%26+Code" />
 </p>
 
 ---
@@ -69,7 +66,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farjanayeasminrimi&theme=tokyonight" />
 </p>
-
----
-
-⭐ From [Farjana Yeasmin Rimi](https://github.com/farjanayeasminrimi)
