@@ -107,28 +107,8 @@
 <!-- GitHub Stats Section -->
 <!-- ============================= -->
 ## 📊 GitHub Stats
-
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img 
-          src="https://github-readme-streak-stats.herokuapp.com/?user=farjanayeasminrimi&theme=tokyonight" 
-          alt="GitHub Streak Stats" 
-          height="195"
-        />
-      </td>
-      
-      <td width="10"></td>
-
-      <td align="center">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=farjanayeasminrimi&layout=compact&theme=tokyonight&hide_border=false" 
-          alt="Top Languages" 
-          height="195"
-        />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farjanayeasminrimi&theme=tokyonight" alt="Streak Stats" height="195" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farjanayeasminrimi&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="195" />
 </p>
-
