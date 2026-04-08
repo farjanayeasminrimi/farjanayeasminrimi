@@ -8,9 +8,20 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&label=Profile%20views&color=F8FAFC&style=flat&background=0F172A,1D4ED8,06B6D4&radius=8" 
-       alt="Profile views" 
-       style="padding: 6px 12px;" />
+  <span style="
+    display: inline-block;
+    background: linear-gradient(90deg, #0F172A, #1D4ED8, #06B6D4);
+    color: #F8FAFC;
+    font-weight: bold;
+    padding: 12px 24px;
+    border-radius: 12px;
+    font-size: 16px;
+    min-width: 180px;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  ">
+    Profile Views: <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&color=F8FAFC&style=flat" alt="Profile views" style="vertical-align: middle;" />
+  </span>
 </p>
 
 <p align="center">
