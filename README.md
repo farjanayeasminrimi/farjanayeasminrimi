@@ -10,24 +10,22 @@
 
 <!-- Left Column -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=false&vCenter=true&width=500&lines=Creative+Front-End+Developer;Building+Modern+and+Responsive+Web+Experiences;Learning+and+Growing+Every+Day" alt="Animated typing text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=38BDF8&center=false&vCenter=true&width=520&lines=Creative+Front-End+Developer;Building+Modern+and+Responsive+Web+Experiences;Always+Learning+and+Improving" alt="Animated typing text" />
 </p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&label=Profile%20views&color=0F172A&style=flat" />
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="Fun Animation" width="200"/></a>
-</p>
+<p align="left"><b>Creative UI Design</b></p>
 
 </td>
 <td width="4%"></td>
 <td width="48%" valign="top">
 
 <!-- Right Column -->
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2800&pause=1000&color=CFFAFE&center=false&vCenter=true&width=500&lines=Creative+UI+Design;Building+Modern+React+Projects;Always+Learning+and+Improving" alt="Typing Animation Right" />
+<p align="right">
+  <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="Fun Animation" width="260"/></a>
 </p>
 
 </td>
@@ -37,10 +35,10 @@
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning *Advanced React & Next.js*
-- 💡 Love building *modern UI & responsive websites*
+- 🌱 I’m currently learning Advanced React & Next.js
+- 💡 Love building modern UI & responsive websites
 - ⚡ I enjoy turning ideas into real projects
-- 📫 Reach me: *farjanayeasmin003@gmail.com*
+- 📫 Reach me: farjanayeasmin003@gmail.com
 
 ---
 
