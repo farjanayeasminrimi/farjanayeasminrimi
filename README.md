@@ -50,10 +50,6 @@
 <!-- Social Media / Connect Section -->
 <!-- ============================= -->
 ## 🌐 Connect with Me
-To center the buttons, you simply need to change the opening tag to <p align="center">. I have also added some non-breaking spaces (&nbsp;) between the buttons so they aren't touching each other, which keeps the layout looking clean.
-
-HTML
-## 🌐 Connect with Me
 
 <p align="center">
 
