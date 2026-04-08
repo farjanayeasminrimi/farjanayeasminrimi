@@ -6,26 +6,26 @@
 <!-- Split Layout -->
 <table align="center" width="100%">
 <tr>
-<td width="48%" valign="top">
+<td width="48%" valign="middle">
 
 <!-- Left Column -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=38BDF8&center=false&vCenter=true&width=520&lines=Creative+Front-End+Developer;Building+Modern+and+Responsive+Web+Experiences;Always+Learning+and+Improving" alt="Animated typing text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2800&pause=900&color=38BDF8&center=false&vCenter=true&width=520&lines=Front-End+Developer;Building+Modern+and+Responsive+Web+Experiences;Always+Learning+and+Improving" alt="Animated typing text" />
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&label=Profile%20views&color=0F172A&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=farjanayeasminrimi&label=Profile%20views&color=ffffff&style=for-the-badge&background=1D4ED8" alt="Profile views" />
 </p>
-
-<p align="left"><b>Creative UI Design</b></p>
 
 </td>
 <td width="4%"></td>
-<td width="48%" valign="top">
+<td width="48%" valign="middle">
 
 <!-- Right Column -->
 <p align="right">
-  <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="Fun Animation" width="260"/></a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="Fun Animation" width="260" style="border-radius:12px;"/>
+  </a>
 </p>
 
 </td>
@@ -44,11 +44,11 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/farjanayeasminrimi"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://fb.com/farjanayeasmin703"><img src="https://skillicons.dev/icons?i=facebook" /></a>
-<a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://www.youtube.com/@farjanayeasminrimi"><img src="https://skillicons.dev/icons?i=youtube" /></a>
-<a href="https://discord.gg/#4269"><img src="https://skillicons.dev/icons?i=discord" /></a>
+  <a href="https://linkedin.com/in/farjanayeasminrimi"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://fb.com/farjanayeasmin703"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.youtube.com/@farjanayeasminrimi"><img src="https://skillicons.dev/icons?i=youtube" /></a>
+  <a href="https://discord.gg/#4269"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
 
 ---
