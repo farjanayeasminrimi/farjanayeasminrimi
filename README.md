@@ -50,32 +50,48 @@
 <!-- Social Media / Connect Section -->
 <!-- ============================= -->
 ## 🌐 Connect with Me
+To center the buttons, you simply need to change the opening tag to <p align="center">. I have also added some non-breaking spaces (&nbsp;) between the buttons so they aren't touching each other, which keeps the layout looking clean.
+
+HTML
+## 🌐 Connect with Me
+
 <p align="center">
 
   <a href="mailto:farjanayeasmin003@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-FF5722?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-FF5722?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp; <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;
+
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp; <a href="https://github.com/farjanayeasminrimi" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  &nbsp;
+
+  <a href="https://github.com/farjanayeasminrimi" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp; <a href="YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-008080?style=flat-square&logo=googledomains&logoColor=white" alt="Portfolio" />
+  &nbsp;
+
+  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-008080?style=for-the-badge&logo=googledomains&logoColor=white" alt="Portfolio" />
   </a>
-  &nbsp; <a href="YOUR_FACEBOOK_URL" target="_blank">
-    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  &nbsp;
+
+  <a href="YOUR_FACEBOOK_URL" target="_blank">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  &nbsp; <a href="YOUR_INSTAGRAM_URL" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  &nbsp;
+
+  <a href="YOUR_INSTAGRAM_URL" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  &nbsp; <a href="YOUR_DISCORD_URL" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  &nbsp;
+
+  <a href="YOUR_DISCORD_URL" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 
 </p>
-
 ---
 
 <!-- ============================= -->
