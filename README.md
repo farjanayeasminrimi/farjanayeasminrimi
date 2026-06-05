@@ -39,7 +39,7 @@
 <!-- ============================= -->
 ## 👩‍💻 Professional Summary
 - Front-End Developer passionate about **clean and responsive web apps**  
-- Currently learning **Advanced React & Next.js**  
+- Currently exploring **Backend**  
 - Enjoy turning ideas into **real projects**  
 - Continuously **learning and growing** in web development  
 - 📫 **Reach me:** [farjanayeasmin003@gmail.com](mailto:farjanayeasmin003@gmail.com)
