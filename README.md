@@ -68,7 +68,7 @@
   </a>
   &nbsp;
 
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="https://farjanayeasminrimi.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-008080?style=for-the-badge&logo=googledomains&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
