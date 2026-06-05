@@ -107,5 +107,6 @@
 <!-- GitHub Stats Section -->
 <!-- ============================= -->
 ## 📈 GitHub Analytics
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farjanayeasminrimi&show_icons=true&theme=radical)
+<p align="center">
+  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farjanayeasminrimi&theme=github_dark" alt="Profile details" />
+</p>
